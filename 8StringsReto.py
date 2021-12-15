@@ -4,4 +4,4 @@ saludo = f'Bienveni@ {name}'
 
 print(saludo)
 
-print(f'La longitud del string es de {len(saludi)}')
+print(f'La longitud del string es de {len(saludo)}')
